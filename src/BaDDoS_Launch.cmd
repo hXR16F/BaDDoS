@@ -1,0 +1,1 @@
+if exist "BaDDoS_GUI.exe" (start /WAIT BaDDoS_GUI.exe) & exit
