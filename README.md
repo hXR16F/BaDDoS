@@ -1,5 +1,5 @@
 # BaDDoS
-BaDDoS is an **advanced** program to perform DoS attack based on ping.
+BaDDoS is an **advanced** program to perform DoS attacks based on ping.
 
 # Usage
 Launch:
